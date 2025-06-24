@@ -8,7 +8,7 @@
 
 - **Objective**: Build a real-time AI system to provide feedback on arm raise exercise posture.
 - **Focus**: Human pose estimation, machine learning, and live classification for rehabilitation support.
-- **Dataset**: 40 videos (20 Correct, 20 Incorrect), split 60% train, 20% validation, 20% test.
+- **Dataset**: 50 videos (25 Correct, 25 Incorrect), split 80% train, 10% validation, 10% test.
 
 ### Features
 
@@ -128,6 +128,7 @@ Place the `dataset_small` folder in the project root as shown in the structure a
 
 - **Validation Accuracy**: ~92.5%
 - **Test Metrics **:
+
   - Accuracy: 90.0%
   - Precision: 87.5%
   - Recall: 87.5%
@@ -161,4 +162,3 @@ Place the `dataset_small` folder in the project root as shown in the structure a
 - Save prediction logs to CSV for long-term analysis
 
 ---
-
