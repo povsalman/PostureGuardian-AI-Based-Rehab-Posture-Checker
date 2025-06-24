@@ -133,6 +133,13 @@ Place the `dataset_small` folder in the project root as shown in the structure a
 
 ---
 
+## Output Images (WebCam)
+
+![1](https://github.com/user-attachments/assets/cb75dbf8-c91a-4dd9-8cb8-b48f7853d4b1)
+![2](https://github.com/user-attachments/assets/937a4ae9-7d07-4387-8bca-2727c0dceeba)
+![3](https://github.com/user-attachments/assets/00cd74b5-808a-4fae-8205-038f7e1fd929)
+![4](https://github.com/user-attachments/assets/898f8acb-ac0b-4fe1-8767-a587a7b71637)
+
 ## Challenges
 
 - Normalizing for varying body sizes and distances
