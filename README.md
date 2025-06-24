@@ -126,13 +126,8 @@ Place the `dataset_small` folder in the project root as shown in the structure a
 
 ## Performance
 
-- **Validation Accuracy**: ~92.5%
+- **Validation Accuracy**: ~80%
 - **Test Metrics **:
-
-  - Accuracy: 90.0%
-  - Precision: 87.5%
-  - Recall: 87.5%
-  - F1-Score: 87.5%
 
 - **Frame Skip**: Chosen as 5 for ~36 frames per 6-sec video
 
