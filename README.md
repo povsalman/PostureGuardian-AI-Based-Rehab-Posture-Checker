@@ -127,9 +127,7 @@ Place the `dataset_small` folder in the project root as shown in the structure a
 ## Performance
 
 - **Validation Accuracy**: ~80%
-- **Test Metrics **:
-
-- **Frame Skip**: Chosen as 5 for ~36 frames per 6-sec video
+- **Frame Skip**: Chosen as 3 for ~60 frames per 6-sec video
 
 ---
 
@@ -143,24 +141,7 @@ Place the `dataset_small` folder in the project root as shown in the structure a
 ## Challenges
 
 - Normalizing for varying body sizes and distances
-- Stabilizing real-time predictions using moving average
+- Stabilizing real-time predictions
 - Balancing frame sampling for speed vs accuracy
-
----
-
-## Deliverables
-
-- Jupyter Notebook: `postureguardian.ipynb`
-- Trained model: `postureguardian_model.joblib`
-- Demo visuals (manual capture)
-- Documentation in notebook and `README.md`
-
----
-
-## Future Improvements
-
-- Add more joint angle and torso alignment features
-- Enable audio alerts for incorrect posture
-- Save prediction logs to CSV for long-term analysis
 
 ---
