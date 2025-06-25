@@ -127,7 +127,7 @@ Place the `dataset_small` folder in the project root as shown in the structure a
 ## Performance
 
 - **Validation Accuracy**: ~80%
-- **Frame Skip**: Chosen as 5 for ~36 frames per 6-sec video
+- **Frame Skip**: Chosen as 3 for ~60 frames per 6-sec video
 
 ---
 
@@ -141,7 +141,7 @@ Place the `dataset_small` folder in the project root as shown in the structure a
 ## Challenges
 
 - Normalizing for varying body sizes and distances
-- Stabilizing real-time predictions using moving average
+- Stabilizing real-time predictions
 - Balancing frame sampling for speed vs accuracy
 
 ---
